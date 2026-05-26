@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript;6%2B+years+of+experience;Scalable+%26+performant+apps)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Animation">
+</div>
+
+<br/>
 
 # Hi, I'm Naveed Riaz 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=NavedRiaz)
