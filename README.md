@@ -16,13 +16,31 @@ Currently based in Paris, France, with an MSc in Software Engineering from EPITA
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveed.bosal@hotmail.com)
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- **Backend:** C#, .NET, ASP.NET, ASP.NET MVC, Web APIs
-- **Database:** SQL Server, MySQL, Entity Framework, LINQ
-- **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap
-- **Mobile:** React Native
-- **Tools:** Git, GitHub, Docker, REST APIs
+### Languages
+C# • .NET • TypeScript • JavaScript • Python • HTML5 • CSS3 • SQL • LINQ
+
+### Backend
+ASP.NET • ASP.NET MVC • .NET Core • Web APIs • REST APIs • Express.js • Node.js • NestJS • Socket.io • JWT
+
+### Frontend & Mobile
+React • Next.js • React Native • Expo • React Router • Redux • RxJS • GraphQL • Apollo GraphQL • Bootstrap • TailwindCSS • MUI • Ant Design • Semantic UI React • Styled Components • SASS • Chart.js • jQuery • AJAX
+
+### Databases
+Microsoft SQL Server • MySQL • PostgreSQL • Redis • Entity Framework
+
+### DevOps & Cloud
+Docker • AWS • Heroku • Vercel • Git • GitHub • CI/CD
+
+### Tools
+Webpack • Babel • Yarn • NPM • Postman • Swagger • Figma • Adobe XD • Trello
+
+### Specialized
+Backend Development • Full-Stack Development • Mobile App Development • Enterprise Applications • ERP Systems • Route Optimization • Automation Systems • IoT Solutions • Legacy Modernization
+
+### Methodologies
+Agile • Scrum • SDLC • Problem Solving
 
 ## 🚀 What I Work On
 
