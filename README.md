@@ -1,5 +1,5 @@
 # Hi, I'm Naveed Riaz 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=NavedRiaz)
 Software Engineer with 7+ years of experience building web, enterprise, and full-stack applications using .NET, C#, SQL Server, and modern development practices.
 
 Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
