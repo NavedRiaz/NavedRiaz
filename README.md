@@ -56,14 +56,13 @@ Software Engineer with 7+ years of experience building enterprise, backend, and 
 ![Scrum](https://img.shields.io/badge/Scrum-6C3483?style=for-the-badge&logo=scrum&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-1565C0?style=for-the-badge&logo=lifecycle&logoColor=white)
 
-## 🚀 What I Work On
-
-- Enterprise web applications
-- Backend systems and APIs
-- Database-driven applications
-- Performance optimization
-- Full-stack development
-- Legacy system maintenance and modernization
+## What I Work On
+- Enterprise & business applications
+- Backend systems, APIs & database-driven platforms
+- ERP, automation & route optimization systems
+- IoT & mobile-connected solutions
+- Performance optimization & scalable architectures
+- Full-stack development & system modernization
 - 
 ## 📊 GitHub Stats
 
