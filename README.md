@@ -5,7 +5,7 @@
 <br/>
 
 # Hi, I'm Naveed Riaz 👋
-Software Engineer with 7+ years of experience building web, enterprise, and full-stack applications using .NET, C#, SQL Server, and modern development practices.
+Software Engineer with 7+ years of experience building enterprise, backend, and full-stack applications. Experienced in ERP systems, route optimization platforms, automation solutions, IoT-based systems, and scalable business applications. Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
 
 Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
 
@@ -77,17 +77,3 @@ Currently based in Paris, France, with an MSc in Software Engineering from EPITA
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
 
 </div>
-## 📌 Featured Projects
-
-Coming soon: selected projects, case studies, and technical work.
-
-## 📊 GitHub Stats
-
-![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavedRiaz&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavedRiaz&layout=compact)
-
-## 📫 Connect with me
-
-- LinkedIn: add your LinkedIn URL here
-- Email: add your professional email here
