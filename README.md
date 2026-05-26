@@ -5,9 +5,8 @@
 <br/>
 
 # Hi, I'm Naveed Riaz 👋
-Software Engineer with 7+ years of experience building enterprise, backend, and full-stack applications. Experienced in ERP systems, route optimization platforms, automation solutions, IoT-based systems, and scalable business applications. Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
+Software Engineer with 7+ years of experience building enterprise, backend, and full-stack applications. Experienced in ERP systems, route optimization platforms, automation solutions, IoT-based systems, and scalable business applications. MSc in Software Engineering from EPITA Paris.
 
-Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-riaz)
