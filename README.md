@@ -1,6 +1,8 @@
 # Hi, I'm Naveed Riaz 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=NavedRiaz)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavedRiaz&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavedRiaz&layout=compact)
 Software Engineer with 7+ years of experience building web, enterprise, and full-stack applications using .NET, C#, SQL Server, and modern development practices.
 
