@@ -9,6 +9,12 @@ Software Engineer with 7+ years of experience building web, enterprise, and full
 
 Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-riaz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavedRiaz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveed.bosal@hotmail.com)
+
 ## 🔧 Tech Stack
 
 - **Backend:** C#, .NET, ASP.NET, ASP.NET MVC, Web APIs
