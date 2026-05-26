@@ -9,6 +9,7 @@ Software Engineer with 7+ years of experience building web, enterprise, and full
 
 Currently based in Paris, France, with an MSc in Software Engineering from EPITA Paris.
 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveed-riaz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavedRiaz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
