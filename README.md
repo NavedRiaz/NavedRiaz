@@ -65,7 +65,18 @@ Currently based in Paris, France, with an MSc in Software Engineering from EPITA
 - Performance optimization
 - Full-stack development
 - Legacy system maintenance and modernization
+- 
+## 📊 GitHub Stats
 
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+</div>
 ## 📌 Featured Projects
 
 Coming soon: selected projects, case studies, and technical work.
