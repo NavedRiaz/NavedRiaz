@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Engineer;React+%7C+Next.js+%7C+TypeScript;6%2B+years+of+experience;Scalable+%26+performant+apps)](https://git.io/typing-svg)
+
 # Hi, I'm Naveed Riaz 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=NavedRiaz)
 
