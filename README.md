@@ -72,4 +72,6 @@ Software Engineer with 7+ years of experience building enterprise, backend, and 
 
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NavedRiaz&theme=react-dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavedRiaz&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
