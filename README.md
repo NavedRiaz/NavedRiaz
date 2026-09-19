@@ -67,6 +67,7 @@ Software Engineer with 7+ years of experience building enterprise, backend, and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NavedRiaz&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NavedRiaz&theme=radical&hide_border=true)
+
+![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavedRiaz&show_icons=true&theme=radical&hide_border=true&count_private=true)
 </div>
