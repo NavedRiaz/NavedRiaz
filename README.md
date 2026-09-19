@@ -64,14 +64,4 @@ Software Engineer with 7+ years of experience building enterprise, backend, and 
 - Performance optimization & scalable architectures
 - Full-stack development & system modernization
 - 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavedRiaz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavedRiaz&theme=radical" alt="GitHub Profile Summary" />
-</div>
